@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="159dd964-c7f7-42af-a05a-3682fd756b6f" name="Changes" comment="added makeSound">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="159dd964-c7f7-42af-a05a-3682fd756b6f" name="Changes" comment="Better Dog and Cat sounds!!!">
+      <change beforePath="$PROJECT_DIR$/src/main/java/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Cat.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Dog.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,7 +50,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1668411844061</updated>
-      <workItem from="1668411848100" duration="480000" />
+      <workItem from="1668411848100" duration="595000" />
     </task>
     <task id="LOCAL-00001" summary="1. commit">
       <created>1668411944574</created>
@@ -80,7 +80,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668412241813</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Better Dog and Cat sounds!!!">
+      <created>1668412404686</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1668412404686</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -102,6 +109,7 @@
     <MESSAGE value="added Dog" />
     <MESSAGE value="added Cat" />
     <MESSAGE value="added makeSound" />
-    <option name="LAST_COMMIT_MESSAGE" value="added makeSound" />
+    <MESSAGE value="Better Dog and Cat sounds!!!" />
+    <option name="LAST_COMMIT_MESSAGE" value="Better Dog and Cat sounds!!!" />
   </component>
 </project>
