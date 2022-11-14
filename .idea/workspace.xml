@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="159dd964-c7f7-42af-a05a-3682fd756b6f" name="Changes" comment="Better Dog and Cat sounds!!!">
-      <change beforePath="$PROJECT_DIR$/src/main/java/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Cat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Dog.java" afterDir="false" />
+    <list default="true" id="159dd964-c7f7-42af-a05a-3682fd756b6f" name="Changes" comment="Greated Main">
+      <change beforePath="$PROJECT_DIR$/src/main/java/Mani.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +20,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -37,8 +40,10 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false"
   }
 }]]></component>
@@ -50,7 +55,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1668411844061</updated>
-      <workItem from="1668411848100" duration="595000" />
+      <workItem from="1668411848100" duration="4544000" />
     </task>
     <task id="LOCAL-00001" summary="1. commit">
       <created>1668411944574</created>
@@ -87,7 +92,28 @@
       <option name="project" value="LOCAL" />
       <updated>1668412404686</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Fixed camelCase in makeSound()">
+      <created>1668412481751</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1668412481751</updated>
+    </task>
+    <task id="LOCAL-00007" summary="added eat">
+      <created>1668413768220</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1668413768220</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Greated Main">
+      <created>1668414639876</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1668414639876</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -110,6 +136,9 @@
     <MESSAGE value="added Cat" />
     <MESSAGE value="added makeSound" />
     <MESSAGE value="Better Dog and Cat sounds!!!" />
-    <option name="LAST_COMMIT_MESSAGE" value="Better Dog and Cat sounds!!!" />
+    <MESSAGE value="Fixed camelCase in makeSound()" />
+    <MESSAGE value="added eat" />
+    <MESSAGE value="Greated Main" />
+    <option name="LAST_COMMIT_MESSAGE" value="Greated Main" />
   </component>
 </project>
